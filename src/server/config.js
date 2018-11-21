@@ -1,7 +1,7 @@
 const config = {
   database: 'app',
   username: 'root',
-  password: 'li1998081100',
+  password: 'xxxxxxxxxxxx',
   host: 'localhost',
   port: 3306
 }
